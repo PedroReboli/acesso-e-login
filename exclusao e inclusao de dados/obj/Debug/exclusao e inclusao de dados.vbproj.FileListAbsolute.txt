@@ -1,0 +1,12 @@
+C:\Users\pedro\source\repos\exclusao e inclusao de dados\exclusao e inclusao de dados\bin\Debug\exclusao e inclusao de dados.exe.config
+C:\Users\pedro\source\repos\exclusao e inclusao de dados\exclusao e inclusao de dados\bin\Debug\exclusao e inclusao de dados.exe
+C:\Users\pedro\source\repos\exclusao e inclusao de dados\exclusao e inclusao de dados\bin\Debug\exclusao e inclusao de dados.pdb
+C:\Users\pedro\source\repos\exclusao e inclusao de dados\exclusao e inclusao de dados\bin\Debug\exclusao e inclusao de dados.xml
+C:\Users\pedro\source\repos\exclusao e inclusao de dados\exclusao e inclusao de dados\obj\Debug\exclusao e inclusao de dados.vbprojAssemblyReference.cache
+C:\Users\pedro\source\repos\exclusao e inclusao de dados\exclusao e inclusao de dados\obj\Debug\exclusao_e_inclusao_de_dados.Form1.resources
+C:\Users\pedro\source\repos\exclusao e inclusao de dados\exclusao e inclusao de dados\obj\Debug\exclusao_e_inclusao_de_dados.Resources.resources
+C:\Users\pedro\source\repos\exclusao e inclusao de dados\exclusao e inclusao de dados\obj\Debug\exclusao e inclusao de dados.vbproj.GenerateResource.cache
+C:\Users\pedro\source\repos\exclusao e inclusao de dados\exclusao e inclusao de dados\obj\Debug\exclusao e inclusao de dados.vbproj.CoreCompileInputs.cache
+C:\Users\pedro\source\repos\exclusao e inclusao de dados\exclusao e inclusao de dados\obj\Debug\exclusao e inclusao de dados.exe
+C:\Users\pedro\source\repos\exclusao e inclusao de dados\exclusao e inclusao de dados\obj\Debug\exclusao e inclusao de dados.xml
+C:\Users\pedro\source\repos\exclusao e inclusao de dados\exclusao e inclusao de dados\obj\Debug\exclusao e inclusao de dados.pdb
